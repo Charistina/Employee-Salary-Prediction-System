@@ -17,3 +17,4 @@ __pycache__/
 # Ignore VSCode settings (optional)
 .vscode/
 best_pipeline.pkl
+bfg.jar
